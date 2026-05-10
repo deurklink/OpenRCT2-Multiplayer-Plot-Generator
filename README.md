@@ -4,6 +4,8 @@ Multiplayer Plot Generator is an OpenRCT2 plug-in that creates a clean grid of i
 
 It is intended for flat, empty workbench maps where each player or team needs a clearly separated building area with shared paths between plots.
 
+![Multiplayer Plot Generator creating a grid of build plots](img/screenshot.png)
+
 ## Current features
 
 - Generate rectangular multiplayer build plots from an in-game window.
