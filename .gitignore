@@ -1,0 +1,12 @@
+# Local editor settings
+.vscode/
+.idea/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+
+# OpenRCT2 local files
+*.park
+*.sv6
+*.sc6
