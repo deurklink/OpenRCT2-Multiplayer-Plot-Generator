@@ -63,17 +63,6 @@ To test a local change, copy `multiplayer-plot-generator.js` into your OpenRCT2 
 
 This plugin was created with assistance from OpenAI Codex. Codex helped generate, revise, and document the plugin, while the repository remains available for review, modification, and improvement by the OpenRCT2 community.
 
-## Release checklist
-
-Before submitting the plugin to [openrct2plugins.org](https://openrct2plugins.org/):
-
-- Make the GitHub repository public.
-- Add a short repository description, for example: `An OpenRCT2 plugin that generates multiplayer build plots on empty maps.`
-- Add repository topics such as `openrct2`, `openrct2-plugin`, `plugin`, `multiplayer`, `map`, `scenario-editor`, and `roller-coaster-tycoon`.
-- Create a GitHub release that includes `multiplayer-plot-generator.js` as a downloadable asset.
-- Add at least one screenshot or GIF to the README if possible.
-- Check that the plugin metadata at the bottom of `multiplayer-plot-generator.js` has the right author name.
-
 ## License
 
 MIT
